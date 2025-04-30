@@ -1,5 +1,5 @@
 # 1-1 변수 선언
-var a : 식별자, 변수명 variabl a 등으로 불림
+var a : 식별자, 변수명 variable a 등으로 불림
 
 # 1-2 변수 선언과 할당
 var a : 변수 a 선언
