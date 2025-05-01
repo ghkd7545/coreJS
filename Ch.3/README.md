@@ -35,9 +35,9 @@ console.log(this === global); // false
 
 function a() { 
 
-    console.log(this) // global 
+console.log(this) // global 
     
-    console.log(this === global) // true 
+console.log(this === global) // true 
     
 } 
 
