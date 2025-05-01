@@ -5,7 +5,7 @@
 
 브라우저 환경에서는 window, Node.js 환경에서는 global
 
-# 3-2 전역 공간에서의 this(Node.js 환경)
+# 3-2 전역 공간에서의 this(node.js 환경)
 VSCODE에서 돌려보면 this가 빈 객체
 
 js 파일에서 작성하는 코드 전체는 하나의 함수 내부로 들어가게 되므로 당연히 비교 결과도 false로 나오는 결과
@@ -148,7 +148,7 @@ ES6에서  유사배열객체 또는 순회 가능한 모든 종류의 데이터
 # 3-23 call/apply 메서드의 활용 3-2) 여러 인수를 받는 메세드(Math.max/Math.min)에 apply 적용
 Math.max/Math.min메서드에 apply 를 적용하여 예제 3-22를 더 간단히 구현
 
-# 3-24 callk/apply 메서드의 활용 3-3) ES6의 펼치기 연산자 활용
+# 3-24 call/apply 메서드의 활용 3-3) ES6의 펼치기 연산자 활용
 ES6에서의 펼치기 연산자를 이용하여 예제 3-23보다 더 쉽게 구현
 
 # 3-25 bind 메서드 - this 지정과 부분 적용 함수 구현
