@@ -1,4 +1,4 @@
-# Ch.6 프로토타입과 prototype 체이닝
+# Ch.6 예제 정리
 
 ## 6-1 Person.prototype
 
